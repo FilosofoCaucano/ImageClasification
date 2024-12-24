@@ -1,0 +1,15 @@
+# Backend
+model/climate_classifier.h5  # Modelo entrenado
+__pycache__/                 # Archivos de caché de Python
+*.pyc                        # Archivos compilados de Python
+*.ipynb_checkpoints          # Checkpoints de Jupyter
+dataset/                     # Dataset completo
+
+# Frontend
+node_modules/                # Dependencias de Node.js
+build/                       # Archivos compilados del frontend
+
+# General
+*.log                        # Archivos de log
+*.zip                        # Archivos comprimidos
+*.h5                         # Archivos grandes de modelos
