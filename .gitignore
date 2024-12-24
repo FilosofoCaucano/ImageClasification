@@ -13,3 +13,15 @@ build/                       # Archivos compilados del frontend
 *.log                        # Archivos de log
 *.zip                        # Archivos comprimidos
 *.h5                         # Archivos grandes de modelos
+
+
+# Excluir la carpeta dataset
+Backend/dataset/
+
+# Ignorar dataset y archivos grandes
+Backend/dataset/
+Backend/model/weather-dataset.zip
+*.zip
+
+Backend/model/climate_classifier.h5
+*.h5
