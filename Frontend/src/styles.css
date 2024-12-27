@@ -1,6 +1,6 @@
 body {
     font-family: 'Georgia', serif;
-    background-image:url(C:\Users\Willi\Downloads\ProyectoClasificadoresImagenes\ProyectoClasificadorImagenes\frontend\FondoRN.png) ; /* Ruta de la imagen */
+    background-image:url(FondoRN.png) ; /* Ruta de la imagen */
     background-size: cover;  /* Ajustar al tamaño de la pantalla */
     background-position: center;
     background-repeat: no-repeat;
